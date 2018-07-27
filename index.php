@@ -10,6 +10,7 @@
   </head>
   <body>
 <?php
+/*Modification de la 8eme position*/
   echo $months[7] = 'août';
 ?>
   </body>
